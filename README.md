@@ -22,6 +22,18 @@ The project simulates a cricket match with ball-by-ball scoring, batting and bow
 * Man of the Match selection
 * Best Catch of the Match
 * Top performers summary
+## screenshots
+##Teaminput
+<img width="483" height="409" alt="Screenshot 2026-06-07 013036" src="https://github.com/user-attachments/assets/a31de6ac-8995-4500-abc2-b1e5cfa86993" />
+##Toss
+##Toss
+<img width="345" height="340" alt="image" src="https://github.com/user-attachments/assets/a1b2ba3c-2c66-4fbf-a5b8-2d029f9a09f0" />
+#Result
+<img width="257" height="361" alt="image" src="https://github.com/user-attachments/assets/a431ffdd-115f-4c15-aaa0-4a771d8b8a2c" />
+
+
+
+
 
 ## OOP Concepts Used
 
