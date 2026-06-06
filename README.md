@@ -28,7 +28,8 @@ The project simulates a cricket match with ball-by-ball scoring, batting and bow
 
 ## Toss
 <img width="345" height="340" alt="image" src="https://github.com/user-attachments/assets/a1b2ba3c-2c66-4fbf-a5b8-2d029f9a09f0" />
-# Result
+
+## Result
 <img width="257" height="361" alt="image" src="https://github.com/user-attachments/assets/a431ffdd-115f-4c15-aaa0-4a771d8b8a2c" />
 
 
