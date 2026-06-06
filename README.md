@@ -25,7 +25,7 @@ The project simulates a cricket match with ball-by-ball scoring, batting and bow
 ## screenshots
 ##Teaminput
 <img width="483" height="409" alt="Screenshot 2026-06-07 013036" src="https://github.com/user-attachments/assets/a31de6ac-8995-4500-abc2-b1e5cfa86993" />
-##Toss
+
 ##Toss
 <img width="345" height="340" alt="image" src="https://github.com/user-attachments/assets/a1b2ba3c-2c66-4fbf-a5b8-2d029f9a09f0" />
 #Result
