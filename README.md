@@ -22,7 +22,7 @@ The project simulates a cricket match with ball-by-ball scoring, batting and bow
 * Man of the Match selection
 * Best Catch of the Match
 * Top performers summary
-## screenshots
+## screenshots(Just small part of output , To observe full working go through the output file)
 ## Team Input
 <img width="483" height="409" alt="Screenshot 2026-06-07 013036" src="https://github.com/user-attachments/assets/a31de6ac-8995-4500-abc2-b1e5cfa86993" />
 
